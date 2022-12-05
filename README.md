@@ -1,16 +1,38 @@
-### Hi there 👋
 
-<!--
-**loganbertrand/loganbertrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center" >Hi there, I'm Logan! 👋</h2>
 
-Here are some ideas to get you started:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/logan-bertrand-/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="mailto:loganwbertrand@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Thanks for being here! I am a full-stack developer from San Diego, California</h3>
+
+<h2>My Stack</h2>
+
+Front End:
+- React, React Native
+- Next.js
+- Apollo GraphQL
+- Styled Components
+- Material UI
+- React Bootstrap
+
+Back-End:
+- Node.js
+- Express.js
+- MongoDB, MySQL
+- AWS Dynamo DB
+- Google Firebase
+
+Programming Languages:
+- Javascript (ES6+)
+- HTML
+- CSS
+
+<h2>GitHub Stats</h2>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=loganbertrand&mode=weekly&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
