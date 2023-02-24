@@ -30,6 +30,11 @@ Programming Languages:
 - HTML
 - CSS
 
+Currently Learning 📚:
+- TypeScript
+- Ruby
+- Ruby on Rails
+
 <h2>GitHub Stats</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=loganbertrand&mode=weekly&theme=dark&background=000000)](https://git.io/streak-stats)
